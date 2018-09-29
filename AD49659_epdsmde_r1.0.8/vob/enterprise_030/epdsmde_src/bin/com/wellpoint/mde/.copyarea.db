@@ -1,0 +1,23 @@
+ClearCase CopyAreaDB|4
+vob\enterprise_030\epdsmde_src\src\com\wellpoint\mde
+2
+13
+b:generateRow|2|0|0|0|560037ad703a429583594f601b8af1be|0
+6:Skinny|2|0|0|0|1da070b6d394467bab267630deba4611|0
+1e:ProcessReportingGrpMemget.java|1|159fea77abb|668|a70627fe|96cec61a652644608cea5d82bc1f8709|0
+5:CR209|2|0|0|0|4aec435d0b094b9d8a55ee8aba253367|0
+1e:ProcessOrganizationMemget.java|1|159fea78097|3d93|639ee438|f9e3b185a09f49c0afff21165f30b0d4|0
+d:baseMemgetIxn|2|0|0|0|f037e26fad154819afc13329746dd5f1|0
+e:BusinessHelper|2|0|0|0|b2bcdba0b205422eaf95478c84d99793|0
+1a:ProcessProviderMemget.java|1|159fea78078|34fa|f087609a|070dc09b4c2d48da8cf18cbdfb1c893f|0
+9:constants|2|0|0|0|e89a163d1624466b9b91c668cf2ffb8b|0
+19:ProcessNetworkMemget.java|1|159fea77c80|a13|4e4347fc|cb9b2d6c8aeb4bf4adbbfcde66d2a6c6|0
+5:utils|2|0|0|0|89eb479c88b2400c816080a033848162|0
+15:ProcessHmoMemget.java|1|159fea77a3e|69a|ecdb26f1|add9872fa603419eb526c6b1d15d45ea|0
+b:serviceImpl|2|0|0|0|5437332dea344639bdfeb4e6f93582b6|0
+7:service|2|0|0|0|64bc4f8292cd4818a675ac86c86c1d6b|0
+15:ProcessRmbMemget.java|1|159fea77d5b|9d7|bef425ec|310bb3b1418740baa679e271308671e5|0
+1d:ProcessProviderPgmMemget.java|1|159fea77df7|65e|a2342361|60ca763bd788476892cddee4ea151730|0
+a:helperCode|2|0|0|0|592255c7783d4968b94411450ad752e4|0
+1b:ProcessBusEntityMemget.java|1|159fea777ec|688|108a2b66|98551cb66fd44824a37e6708dbdd43a3|0
+1a:ProcessGroupingMemget.java|1|159fea77963|afc|fe79833f|1a55feacf0fe494caac1bfdfdb529876|0

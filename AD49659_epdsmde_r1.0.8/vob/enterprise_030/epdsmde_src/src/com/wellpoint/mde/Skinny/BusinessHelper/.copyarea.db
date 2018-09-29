@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+vob\enterprise_030\epdsmde_src\src\com\wellpoint\mde\Skinny\BusinessHelper
+2
+8
+14:HmoSkinnyHelper.java|1|159fea7d09c|d21|8f8a373d|b96b13bc765a4848b372d56e0f4daf68|0
+15:ProvSkinnyHelper.java|1|159fea7d0f9|175b|45a85783|8a5da6f34adc44b7890a54451a0ba3f2|0
+1e:ProvSkinnyV2UpdatedHelper.java|1|159fea7d1f3|2325|97b234c9|9c2fda7bb67f40e99b33aaf963b0a6d3|0
+14:OrgSkinnyHelper.java|1|159fea7cf53|1413|a3d742ef|a2774b47f4d14401bc461ac23f211f64|0
+19:AbstractSkinnyHelper.java|1|159fea7cc08|608|ddd7effe|9e1943c7685a4803a3b918eb5193384b|0
+1b:OrgCleanupSkinnyHelper.java|1|159fea7cf34|d6f|8d585a09|2947f6ca729343098f8c303a4097fe6b|0
+18:NetworkSkinnyHelper.java|1|159fea7cef6|d4e|2ea1485e|f9db8763486f4497a6bc8ea5bcfd5be0|0
+1d:OrgSkinnyV2UpdatedHelper.java|1|159fea7d484|1c64|b96eb5bb|c12e32519fe34c5c9ddb86ecd2de0ecd|0

@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vob\enterprise_030\epdsmde_src\src\com\wellpoint\mde\Skinny
+2
+6
+15:ProcessOrgSkinny.java|1|159fea7c8eb|c06|2024f4d7|260c2a07a6494901b8c03a3c61c3cc35|0
+1a:ProcessProviderSkinny.java|1|159fea7c522|c57|687311bd|70285644f03a4da79990da988579e262|0
+19:ProcessNetworkSkinny.java|1|159fea7d09c|9d8|6c7f313b|45dc2ff61311497684a357f8e90b6544|0
+1c:ProcessOrgCleanupSkinny.java|1|159fea7cea8|998|bb0b2034|c8e8235c636d467790233a3a3dd6697c|0
+15:ProcessHmoSkinny.java|1|159fea7c987|523|63bdb785|753e26e983b44b7bbfb8f3aaf9ac5731|0
+e:BusinessHelper|2|0|0|0|335f5add8a964b90ab11d27f19845e70|0

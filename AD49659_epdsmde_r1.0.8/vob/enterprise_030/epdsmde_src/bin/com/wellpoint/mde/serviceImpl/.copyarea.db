@@ -1,0 +1,18 @@
+ClearCase CopyAreaDB|4
+vob\enterprise_030\epdsmde_src\src\com\wellpoint\mde\serviceImpl
+2
+e
+13:GrpServiceImpl.java|1|159fea7aa66|5a53|d35e7346|5837ffa08e714ee4b3417e41b99f24e0|0
+1b:ProviderPgmServiceImpl.java|1|159fea7b61e|2869|4511405e|2068f1bd67ee4360b4a5cd54852ca114|0
+13:RmbServiceImpl.java|1|159fea7b9d7|2d07|ca6313c6|fd0a4f0c52b746beaf9440ddbba756c1|0
+14:ProvServiceImpl.java|1|159fea7cafe|2da6b|2c59ffb7|b0fef6bc91e148a39e18f54d07f99d6e|0
+13:HmoServiceImpl.java|1|159fea7b553|9e02|d0f0341b|68636e9eb77d490b8ff31f885959abfa|0
+19:OrgSkinnyServiceImpl.java|1|159fea7c977|7ad3|c6e7a184|003457fcbbcc40e2b091e5590e64d8d9|0
+17:NetworkServiceImpl.java|1|159fea7b5c0|2b9b|c190f627|129f63c496cb4f5cbeb4deeb423548c4|0
+1a:ProvSkinnyServiceImpl.java|1|159fea7bdfe|473a|3c2f8f48|122fafa01b1846178d81a2dc814dafa5|0
+19:HmoSkinnyServiceImpl.java|1|159fea7b478|29ec|acd27d3b|722a2f36c05e492c9d11c0cf0276cef6|0
+1d:NetworkSkinnyServiceImpl.java|1|159fea7cb2d|2385|43655b79|312a57ff9eae471d8037346e26115ffe|0
+1c:ReportingGrpServiceImpl.java|1|159fea7bdfe|2bcc|34c48815|bd9ee8fabb6c4da9b4833eb965ae72af|0
+18:AbstractServiceImpl.java|1|159fea7b40b|987|de9d003a|48f33ba2faa94bc6a4fdc929884ade9a|0
+19:BusEntityServiceImpl.java|1|159fea7b42a|5555|1553210b|90adc4c4b29e44db91361ad5e5b5f5c4|0
+13:OrgServiceImpl.java|1|159fea7c7d2|2d26d|754007de|86634ab654584168b072d92aeffe61d9|0

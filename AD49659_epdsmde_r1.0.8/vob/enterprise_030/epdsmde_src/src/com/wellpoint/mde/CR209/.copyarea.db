@@ -1,0 +1,13 @@
+ClearCase CopyAreaDB|4
+vob\enterprise_030\epdsmde_src\src\com\wellpoint\mde\CR209
+2
+9
+16:OrgApaltE2EHelper.java|1|159fea79170|446c|fcd15647|a2dfb205f47b46bf99db656b5a511599|0
+15:AbstractHelperCr.java|1|159fea79095|1ca0|787e3e57|5cf027e9d5154d12b2c1e9edf2e1489d|0
+14:ProvApaltHelper.java|1|159fea791be|4b11|2e462952|61a65f8e4bb443a597e2ef9e98ae0b34|0
+16:ProcessProvMemget.java|1|159fea7918f|2984|4c2ffd05|ce13cfec0ecc44aaaa29c7fb82f5c357|0
+15:ProcessGrpMemget.java|1|159fea790e3|5eb|3b6bf00f|2e67b6658f8a43c2b9933484078e81a1|0
+15:ProcessOrgMemget.java|1|159fea790f3|2e64|f19486c0|5abeb8f1637242e888bc037802357d80|0
+17:ProvApaltE2EHelper.java|1|159fea791cd|5e1f|8f52ee67|8cda9b8ee26c4a89a6078ba32ce3414e|0
+12:GrpGaltHelper.java|1|159fea79076|93f|433c0191|9e381606b5bc428e98f88585eb509dcf|0
+13:OrgApaltHelper.java|1|159fea79047|3cd3|65561568|981ebb76ca6148d9978d0817594ad304|0

@@ -1,0 +1,14 @@
+ClearCase CopyAreaDB|4
+vob\enterprise_030\epdsmde_src\src\com\wellpoint\mde\constants
+2
+a
+e:Constants.java|1|159fea79047|ed|a7948ac|8b534a264e83450487ec9dbcacab1350|0
+10:ProvPgmEnum.java|1|159fea78e81|716|2e521908|927a6045faa443d38a2a899cbf37a4d6|0
+c:NetEnum.java|1|159fea78f1e|845|344e58b9|8041ae66e067438bbbea3ed520a6f911|0
+c:HmoEnum.java|1|159fea78e53|b0c|daa2fb9c|8ba54a24fd6247cda6c9a9eed9a5d493|0
+d:ProvEnum.java|1|159fea78ed0|146c|175336f5|a7c0d11caede4d11846c245f83fb6c80|0
+c:RmbEnum.java|1|159fea797f7|816|ba104b68|a254c662e223404ebafe25e792c0a100|0
+c:GrpEnum.java|1|159fea78ba3|8a2|c2596a6d|fc703349ae37440496b08697a0a1eec9|0
+10:RprtGrpEnum.java|1|159fea79325|709|bdcf15d5|184d7f8ac1664f7bbe7433248e5e3820|0
+c:OrgEnum.java|1|159fea78edf|170f|97a1cd70|8b61a155f6a14631925319625ca6b54e|0
+c:BusEnum.java|1|159fea78e72|7fa|33b340d7|e330ec4c3df64761a8e2c48a50f3eb4d|0

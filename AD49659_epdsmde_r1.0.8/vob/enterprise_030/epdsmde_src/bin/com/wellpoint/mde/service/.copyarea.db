@@ -1,0 +1,17 @@
+ClearCase CopyAreaDB|4
+vob\enterprise_030\epdsmde_src\src\com\wellpoint\mde\service
+2
+d
+17:ProviderPgmService.java|1|159fea7a65f|1a3|154291f5|f5aad43acfae493c937ae4273f83096a|0
+f:RmbService.java|1|159fea7bdfe|192|8f168bb2|f46096a4a9024db79439f0c09b170db9|0
+1c:OrgCleanupSkinnyService.java|1|159fea7b40b|18a|9b18834|5fe648b6f8bd4a12993f125ea776ebaf|0
+f:HmoService.java|1|159fea7a2b5|744|4fc683fd|8f92e6f870ef45119b6fcb0189d0691f|0
+15:OrgSkinnyService.java|1|159fea7b40b|252|7bb6cc20|8b5a36bcdc04462b852f09caae583098|0
+13:NetworkService.java|1|159fea7a640|1ff|c2cfb0a5|41dcb35aa6004c6d88a4871c082469fc|0
+14:ProviderService.java|1|159fea7a640|1856|d9f56d58|46d8b991578549b3b6482bca956a0734|0
+15:HmoSkinnyService.java|1|159fea7a2a6|17e|afb0838c|d7cd6965e42347e29e5f4b7c188e4259|0
+19:NetworkSkinnyService.java|1|159fea7a882|12e|c0ab69e7|a05ec19ed20a4dafb57a54019a682f2f|0
+18:ReportingGrpService.java|1|159fea7a863|21d|537ebcdb|3754959204314993b9afc13f9c405cf4|0
+1a:ProviderSkinnyService.java|1|159fea7b534|308|56700c43|214088df49a84659a6b610f2e15ae139|0
+14:GroupingService.java|1|159fea7a3a0|3bd|2d884abf|a33c37fbd0de43a8b6334c6a4db24453|0
+15:BusEntityService.java|1|159fea7a12f|43c|cbac773f|819fb5012cb04164b7cc956a853b7205|0

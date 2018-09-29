@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vob\enterprise_030\epdsmde_src
+2
+6
+9:.settings|2|0|0|0|9a63016883ca11e6800e0002c89cc74c|0
+3:src|2|0|0|0|5128afc0f5194fb5b26023badd90230e|0
+3:lib|2|0|0|0|f7e2a8b5f9064bc5a0b3e1d88f9d6268|0
+8:.project|1|159fea77731|17f|125c7a82|2574e73c081244f4ab5ee7c439686f01|0
+1b:mde_buildDetails.properties|1|159fea77731|14c|85a16997|25cdee3d5f85484f8ca798df6e521b6e|0
+a:.classpath|1|159fea7776f|160|e8fb736e|ed07edd7c7954859aa677e00ae83abfa|0
